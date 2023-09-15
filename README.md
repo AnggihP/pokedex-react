@@ -1,4 +1,4 @@
-# Pokémon App - Pokédex using react, typescript,
+# Pokémon App - Pokédex using react, typescript, API
 
 ## 📷 Preview
 
@@ -17,6 +17,7 @@ Pokédex was made in Reactjs + TypeScript. Syled-Components was used due to the 
 - The application opens in `http://localhost:5173/` or any other available port
 
 ## 💻 Project features
+
 - Pokémon search option by name or id
 - Filter Pokémon by the type
 - Pagination
@@ -30,4 +31,3 @@ Pokédex was made in Reactjs + TypeScript. Syled-Components was used due to the 
 [![Used Tools](https://skillicons.dev/icons?i=ts,react,vite,github,mui,vercel,styledcomponents&theme=light)](https://skillicons.dev)
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
