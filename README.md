@@ -1,5 +1,9 @@
 # Pokémon App - Pokédex using react, typescript, API
 
+## Link Deployment
+
+### Vercel: [https://pokedex-react-one-sand.vercel.app/ ](https://pokedex-react-one-sand.vercel.app/)
+
 ## 📷 Preview
 
 [![Screenshot](https://github.com/anggihp/pokedex-react/blob/main/public/screenshot.png?raw=true 'Screenshot')](https://github.com/anggihp/pokedex-react/blob/main/public/screenshot.png?raw=true 'Screenshot')
